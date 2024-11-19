@@ -1,0 +1,3 @@
+1. The impact of including a stop word list refines the most common words to be more related to the subject of the subreddit threads being analyzed. 
+2. The TF-IDF files seemed to have more specifics pertaining to the subreddit threads. For example, since I was analyzing subreddit threads of specific sports, the TF-IDF files for most common words had pro sports team names compared to more sports terminology found in the naive method. 
+3. The TF-IDF method with no stops produced the best list in terms of precision I found. 

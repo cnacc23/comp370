@@ -1,0 +1,254 @@
+{
+  "basketball.json": [
+    {
+      "word": "basketball",
+      "score": 0.00779002022325335
+    },
+    {
+      "word": "rbasketball",
+      "score": 0.005964777353533922
+    },
+    {
+      "word": "t5_2qhsv",
+      "score": 0.005964777353533922
+    },
+    {
+      "word": "1569671",
+      "score": 0.005964777353533922
+    },
+    {
+      "word": "selfbasketball",
+      "score": 0.0057858340329279044
+    },
+    {
+      "word": "shooting",
+      "score": 0.002624502035554926
+    },
+    {
+      "word": "nba",
+      "score": 0.0019683765266661946
+    },
+    {
+      "word": "thumbnail_height",
+      "score": 0.0013767915385676209
+    },
+    {
+      "word": "thumbnail_width",
+      "score": 0.0013767915385676209
+    },
+    {
+      "word": "grade",
+      "score": 0.0011703316767328977
+    }
+  ],
+  "baseball.json": [
+    {
+      "word": "mlb",
+      "score": 0.009740455441666254
+    },
+    {
+      "word": "width",
+      "score": 0.0060402671158326935
+    },
+    {
+      "word": "rbaseball",
+      "score": 0.005596725778636964
+    },
+    {
+      "word": "t5_2qm7u",
+      "score": 0.005381467094843235
+    },
+    {
+      "word": "2757782",
+      "score": 0.005381467094843235
+    },
+    {
+      "word": "baseball",
+      "score": 0.004982443477665853
+    },
+    {
+      "word": "allmlb",
+      "score": 0.003767026966390264
+    },
+    {
+      "word": "royals",
+      "score": 0.0036593976244933993
+    },
+    {
+      "word": "e",
+      "score": 0.003568141663183426
+    },
+    {
+      "word": "richtext",
+      "score": 0.002831296487645369
+    }
+  ],
+  "soccer.json": [
+    {
+      "word": "rsoccer",
+      "score": 0.006647603364509185
+    },
+    {
+      "word": "t5_2qi58",
+      "score": 0.006581785509415035
+    },
+    {
+      "word": "7813307",
+      "score": 0.006581785509415035
+    },
+    {
+      "word": "substitution",
+      "score": 0.006055242668661832
+    },
+    {
+      "word": "richtext",
+      "score": 0.003793811479389922
+    },
+    {
+      "word": "replaces",
+      "score": 0.0037127550438036255
+    },
+    {
+      "word": "8a1f9432d80711e5a8370e946f872575",
+      "score": 0.0036199820301782695
+    },
+    {
+      "word": "005ba1",
+      "score": 0.0036199820301782695
+    },
+    {
+      "word": "a8ad979e7c0711e9b5880e55aa3940a6",
+      "score": 0.0030934391894250663
+    },
+    {
+      "word": "yellow",
+      "score": 0.0029618034792367656
+    }
+  ],
+  "running.json": [
+    {
+      "word": "marathon",
+      "score": 0.00786666594751004
+    },
+    {
+      "word": "race",
+      "score": 0.007367891006112029
+    },
+    {
+      "word": "mile",
+      "score": 0.0060984703905009015
+    },
+    {
+      "word": "running",
+      "score": 0.0054862111445443075
+    },
+    {
+      "word": "miles",
+      "score": 0.003982643787087584
+    },
+    {
+      "word": "rrunning",
+      "score": 0.003680733608468
+    },
+    {
+      "word": "selfrunning",
+      "score": 0.0036085623612431375
+    },
+    {
+      "word": "t5_2qlit",
+      "score": 0.0036085623612431375
+    },
+    {
+      "word": "3688140",
+      "score": 0.0036085623612431375
+    },
+    {
+      "word": "km",
+      "score": 0.00288684988899451
+    }
+  ],
+  "volleyball.json": [
+    {
+      "word": "volleyball",
+      "score": 0.011264356833516467
+    },
+    {
+      "word": "rvolleyball",
+      "score": 0.0045875001620369485
+    },
+    {
+      "word": "t5_2rcxy",
+      "score": 0.004542079368353415
+    },
+    {
+      "word": "246133",
+      "score": 0.004542079368353415
+    },
+    {
+      "word": "width",
+      "score": 0.003032148826097863
+    },
+    {
+      "word": "selfvolleyball",
+      "score": 0.0026344060336449806
+    },
+    {
+      "word": "ea4ad210096f11eb8ef70ea1610ae1b1",
+      "score": 0.0020439357157590364
+    },
+    {
+      "word": "y",
+      "score": 0.0018295677662556597
+    },
+    {
+      "word": "x",
+      "score": 0.0018295677662556597
+    },
+    {
+      "word": "dadada",
+      "score": 0.001669260346613131
+    }
+  ],
+  "football.json": [
+    {
+      "word": "soccer_ball",
+      "score": 0.010705407921092418
+    },
+    {
+      "word": "ud83dudcf0news",
+      "score": 0.008843597847858955
+    },
+    {
+      "word": "width",
+      "score": 0.00829468171542225
+    },
+    {
+      "word": "rfootball",
+      "score": 0.006050882738008759
+    },
+    {
+      "word": "t5_2qkr5",
+      "score": 0.0058181564788545755
+    },
+    {
+      "word": "901492",
+      "score": 0.0058181564788545755
+    },
+    {
+      "word": "ec7681768ceb11eeb58c122466107eb8",
+      "score": 0.005352703960546209
+    },
+    {
+      "word": "httpsemojiredditmediacom534xarhnjs2c1_t5_2qkr5soccer_ball",
+      "score": 0.005352703960546209
+    },
+    {
+      "word": "a6bd0c704dfb11ed8b39627d011c062e",
+      "score": 0.004421798923929477
+    },
+    {
+      "word": "30d96b",
+      "score": 0.004421798923929477
+    }
+  ]
+}
