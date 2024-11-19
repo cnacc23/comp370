@@ -1,0 +1,1 @@
+The analysis from task 3 revealed that the most common complaint type was 'X-Ray Machine' and was significantly less abundant in Jan-Feb 2020 (16242 complaints) compared to Jun-Jul 2020 (34002 complaints). The number of complaints more than doubled in the two time periods. 
