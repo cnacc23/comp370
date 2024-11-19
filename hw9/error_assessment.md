@@ -1,0 +1,5 @@
+The only title that recieved complete disagreement was the following: Supports for Students Struggling with US Election Results?
+
+The three category tags this recieved were social, general advice and international student FAQ. Likely due to the definitions and the interpretation of them, disagreement was reached. I stipulated in 'international' if the specific country's name was included and implied to classify as international if the post was targeted towards a group of students that were living in the same place (not Canada). General advice is a pretty broad category and social may have been chosen due to the implications of finding other people to relate to. Upon further reflection, though, I agree that International Student FAQ would be the best tag for this. 
+
+Other disagreements where 
